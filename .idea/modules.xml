@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/product-api_week1.iml" filepath="$PROJECT_DIR$/.idea/product-api_week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lec2Task.iml" filepath="$PROJECT_DIR$/.idea/Lec2Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-api_week1/product-api_week1.iml" filepath="$PROJECT_DIR$/product-api_week1/product-api_week1.iml" />
     </modules>
   </component>
 </project>

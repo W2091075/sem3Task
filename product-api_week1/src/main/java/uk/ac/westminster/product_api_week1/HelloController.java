@@ -19,4 +19,9 @@ public class HelloController {
         return "API running - " + LocalDate.now().toString();
     }
 
+    @GetMapping("/goodbye")
+    public String goodbye(){
+        return "API running - " + LocalDate.now().toString();
+    }
+
 }

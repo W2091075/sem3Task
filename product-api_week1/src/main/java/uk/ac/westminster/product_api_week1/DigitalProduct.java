@@ -4,6 +4,7 @@ import static org.apache.tomcat.util.net.openssl.OpenSSLStatus.getName;
 
 public class DigitalProduct extends Product{
 
+
     private String downloadUrl;
     private double fileSizeMB;
 
